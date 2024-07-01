@@ -1,5 +1,0 @@
-http://asozd.duma.gov.ru/main.nsf/(Spravka)?OpenAgent&RN=12345&678
-http://asozd.duma.gov.ru/main.nsf/(Spravka)?OpenAgent&RN=54321&987
-http://asozd.duma.gov.ru/main.nsf/(Spravka)?OpenAgent&RN=98765&432
-http://asozd.duma.gov.ru/main.nsf/(Spravka)?OpenAgent&RN=67890&123
-http://asozd.duma.gov.ru/main.nsf/(Spravka)?OpenAgent&RN=13579&246
